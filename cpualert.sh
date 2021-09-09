@@ -1,9 +1,9 @@
 #!/bin/bash
-#Purpose: Real time CPU utilization Monitoring
+#Purpose: Real time CPU utilization Monitoring(How to monitor CPU utilization? when it went to above 98% critical,90-98 warning,below 90% then it should not send any alert.)
 #Version:1.0
 #Created Date: Tue Jun 5 21:33:38 IST 2018
 #Modified Date:
-#WebSite: https://arkit.co.in
+#WebSite: https://arkit.co.into 
 #Author: Ankam Ravi Kumar
 # START #
 PATHS="/"
